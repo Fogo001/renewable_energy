@@ -1,3 +1,84 @@
+# Data Portfolio:  Analysis of Long-Term Trends and Seasonal Variations in Renewable Energy Consumption
+
+# Table of contents 
+- [Executive Summary](#executive-summary)
+	-[Objectives](#objectives)
+- [Data Source](#data-source)
+-[Tools](#tools)
+-[Development](#development)
+- [Analysis](#analysis) ***
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
+ 	 - [Findings](#findings)   ***
+
+- [Recommendations](#recommendations)
+- [Feasibility](#feasibility)
+- [Conclusion](#conclusion)
+
+
+# Executive Summary
+
+This data project aims to analyze the long-term trends and seasonal variations in renewable energy consumption from 1973 to 2024, across different sectors and energy sources. With a growing focus on sustainable energy, understanding these patterns is crucial for policymakers, industry stakeholders, and researchers. Our comprehensive analysis will explore how renewable energy consumption has evolved over the past five decades, highlighting key trends, growth rates, and the impact of emerging renewable energy sources compared to traditional ones. The findings will offer insights into the factors driving the increase in renewable energy usage and how seasonal variations affect consumption patterns.
+## Objectives
+Objectives:
+1.	Long-Term Trends Analysis:
+o	Identify and analyze long-term trends in total renewable energy consumption across various sectors from 1973 to 2024.
+o	Compare and contrast these trends to understand sector-specific differences in renewable energy adoption.
+2.	Seasonal Variation Impact:
+o	Examine how seasonal variations affect the consumption of each type of renewable energy (solar, wind, hydroelectric, etc.).
+o	Determine patterns or anomalies in seasonal consumption across different renewable energy sources.
+3.	Sectoral Growth Analysis:
+o	Identify the sector that shows the most significant increase in renewable energy consumption.
+o	Investigate the factors driving the growth in renewable energy consumption in the leading sector.
+4.	Growth Rate Comparison:
+o	Calculate the growth rate of each renewable energy source over different periods (1970s, 1980s, etc.).
+o	Compare these growth rates to understand the evolution of renewable energy sources over time.
+5.	Emerging vs. Traditional Renewable Sources:
+o	Assess the contribution of emerging renewable energy sources (e.g., solar and wind) compared to traditional ones (e.g., hydroelectric) over the study period.
+o	Analyze the shift in energy consumption patterns from traditional to emerging renewable sources and its implications.
+
+
+## User Story
+As a policy analyst focused on energy sustainability, it is essential to base policy recommendations on accurate and comprehensive data. Understanding how renewable energy consumption has evolved over the past five decades, including the impact of seasonal variations, is crucial for crafting effective policies that encourage the adoption of renewable energy.																			
+
+# Data Source
+- What data is needed to achieve our objective?
+We need data on the Impact of Adventure Works Airlines’ Loyalty Campaign Programs on Flight Bookings that includes customer’s:
+-	Customer Lifetime Value,
+-	Enrolment Type,
+-	Cancellation Year,
+-	Cancellation Month
+-	Total Flights Booked,
+-	Distance,
+-	Points Accumulated,
+-	Points Redeemed,
+-	Dollar Cost  Points  Redeemed 
+
+ Where is the data coming from? 
+The data is sourced from Kaggle (an Excel extract. The types of data involved are structured and quantitative.
+
+
+# Tools 
+| Tool | Purpose |
+| --- | --- |
+| Excel | Exploring the data |
+| SQL Server | Cleaning, testing, and analyzing the data |
+| Power BI | Visualizing the data via interactive dashboards |
+| GitHub | Hosting the project documentation and version control |
+
+# Development
+
+- What's the general approach in creating this solution from start to finish?
+
+1. Get the data
+2. Explore the data in Excel
+3. Load the data into SQL Server
+4. Generate the findings based on the insights
+5. Visualize the data in Power BI
+6. Write the documentation + commentary
+7. Publish the data to GitHub Pages
+
+
+
 # Analysis 
 
 ## Exploratory Data Analysis
