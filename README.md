@@ -2,13 +2,13 @@
 
 # Table of contents 
 - [Executive Summary](#executive-summary)
-	-[Objectives](#objectives)
+ -[Objectives](#objectives)
 - [Data Source](#data-source)
 -[Tools](#tools)
 -[Development](#development)
-- [Analysis](#analysis) ***
+- [Analysis](#analysis)
   - [Exploratory Data Analysis](#exploratory-data-analysis)
- 	 - [Findings](#findings)   ***
+ 	 - [Findings](#findings) 
 
 - [Recommendations](#recommendations)
 - [Feasibility](#feasibility)
