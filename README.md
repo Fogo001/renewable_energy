@@ -1,6 +1,6 @@
-# Data Portfolio:  Analysis of Long-Term Trends and Seasonal Variations in Renewable Energy Consumption
+# Analysis of Long-Term Trends and Seasonal Variations in Renewable Energy Consumption
 
-# Table of contents 
+## Table of contents 
 - [Executive Summary](#executive-summary)
  -[Objectives](#objectives)
 - [Data Source](#data-source)
@@ -15,7 +15,7 @@
 - [Conclusion](#conclusion)
 
 
-# Executive Summary
+## Executive Summary
 
 This data project aims to analyze the long-term trends and seasonal variations in renewable energy consumption from 1973 to 2024, across different sectors and energy sources. With a growing focus on sustainable energy, understanding these patterns is crucial for policymakers, industry stakeholders, and researchers. Our comprehensive analysis will explore how renewable energy consumption has evolved over the past five decades, highlighting key trends, growth rates, and the impact of emerging renewable energy sources compared to traditional ones. The findings will offer insights into the factors driving the increase in renewable energy usage and how seasonal variations affect consumption patterns.
 ## Objectives
