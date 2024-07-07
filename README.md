@@ -9,7 +9,6 @@
 - [Analysis](#analysis)
   - [Exploratory Data Analysis](#exploratory-data-analysis)
  	 - [Findings](#findings) 
-
 - [Recommendations](#recommendations)
 - [Feasibility](#feasibility)
 - [Conclusion](#conclusion)
@@ -21,20 +20,20 @@ This data project aims to analyze the long-term trends and seasonal variations i
 ## Objectives
 Objectives:
 1.	Long-Term Trends Analysis:
-o	Identify and analyze long-term trends in total renewable energy consumption across various sectors from 1973 to 2024.
-o	Compare and contrast these trends to understand sector-specific differences in renewable energy adoption.
-2.	Seasonal Variation Impact:
-o	Examine how seasonal variations affect the consumption of each type of renewable energy (solar, wind, hydroelectric, etc.).
-o	Determine patterns or anomalies in seasonal consumption across different renewable energy sources.
+- Identify and analyze long-term trends in total renewable energy consumption across various sectors from 1973 to 2024.
+- Compare and contrast these trends to understand sector-specific differences in renewable energy adoption.
+2. 	Seasonal Variation Impact:
+- Examine how seasonal variations affect the consumption of each type of renewable energy (solar, wind, hydroelectric, etc.).
+- Determine patterns or anomalies in seasonal consumption across different renewable energy sources.
 3.	Sectoral Growth Analysis:
-o	Identify the sector that shows the most significant increase in renewable energy consumption.
-o	Investigate the factors driving the growth in renewable energy consumption in the leading sector.
+- Identify the sector that shows the most significant increase in renewable energy consumption.
+- Investigate the factors driving the growth in renewable energy consumption in the leading sector.
 4.	Growth Rate Comparison:
-o	Calculate the growth rate of each renewable energy source over different periods (1970s, 1980s, etc.).
-o	Compare these growth rates to understand the evolution of renewable energy sources over time.
+- Calculate the growth rate of each renewable energy source over different periods (1970s, 1980s, etc.).
+- Compare these growth rates to understand the evolution of renewable energy sources over time.
 5.	Emerging vs. Traditional Renewable Sources:
-o	Assess the contribution of emerging renewable energy sources (e.g., solar and wind) compared to traditional ones (e.g., hydroelectric) over the study period.
-o	Analyze the shift in energy consumption patterns from traditional to emerging renewable sources and its implications.
+- Assess the contribution of emerging renewable energy sources (e.g., solar and wind) compared to traditional ones (e.g., hydroelectric) over the study period.
+- Analyze the shift in energy consumption patterns from traditional to emerging renewable sources and its implications.
 
 
 ## User Story
