@@ -2,13 +2,13 @@
 
 ## Table of contents 
 - [Executive Summary](#executive-summary)
- -[Objectives](#objectives)
+  -[Objectives](#objectives)
 - [Data Source](#data-source)
 -[Tools](#tools)
 -[Development](#development)
 - [Analysis](#analysis)
   - [Exploratory Data Analysis](#exploratory-data-analysis)
- 	 - [Findings](#findings) 
+  - [Findings](#findings) 
 - [Recommendations](#recommendations)
 - [Feasibility](#feasibility)
 - [Conclusion](#conclusion)
@@ -37,7 +37,9 @@ Objectives:
 
 
 ## User Story
-As a policy analyst focused on energy sustainability, it is essential to base policy recommendations on accurate and comprehensive data. Understanding how renewable energy consumption has evolved over the past five decades, including the impact of seasonal variations, is crucial for crafting effective policies that encourage the adoption of renewable energy.																			
+As a marketing professional in the renewable energy sector,
+I want to understand the long-term trends and seasonal variations in renewable energy consumption across different sectors and energy sources from 1973 to 2024,
+so that I can develop targeted marketing campaigns, identify new market opportunities, and effectively communicate the benefits and trends of renewable energy to our audience.																			
 
 # Data Source
 - What data is needed to achieve our objective?
@@ -242,7 +244,7 @@ The Transportation Sector shows the highest growth rate of 613.14%.
 -	Market Demand: Growing consumer demand for sustainable transportation options has driven the sector’s growth.
 
 
-###4. What is the growth rate of each renewable energy source, and how does this compare over different periods (e.g., 1970s, 1980s, etc.)?
+### 4. What is the growth rate of each renewable energy source, and how does this compare over different periods (e.g., 1970s, 1980s, etc.)?
 
 ```sql
 
@@ -492,5 +494,29 @@ ORDER BY Sector;
 3. The peak in summer (June and July) suggests higher travel activity due to favorable weather, while the low in winter (January and February) suggests reduced travel activity.
 3. While there is a positive trend indicating that more points redeemed correlate with more flights booked, other factors also influence these variables.
 4. High engagement and effective utilization of the loyalty program are critical for customer retention. Frequent flyers and those who redeem points are more likely to stay loyal to the service
+5. The industrial sector demonstrates the most significant increase in renewable energy consumption, driven by policies promoting green manufacturing and sustainability initiatives.
+6. The growth rate of solar and wind energy has surpassed that of traditional sources in the 2010s and 2020s.
+7. Traditional sources like hydroelectric power still play a vital role but have been outpaced by the rapid adoption of solar and wind energy.
+
+
 
 ## Recommendations 
+
+1. Develop programs to manage seasonal variations in renewable energy supply, such as energy storage solutions and demand-response strategies.
+2. Prioritize investment and policy efforts in sectors showing the highest growth, particularly the industrial sector, to maximize the impact of renewable energy adoption.
+3. Invest in research and development to further advance solar and wind technologies, ensuring their continued growth and integration into the energy grid.
+4. Focus marketing efforts on emerging renewable energy sources like solar and wind, emphasizing their rapid growth and future potential to attract early adopters and innovators.
+
+## Feasibility
+
+A makor limitation in completing the project was the data included 2024 which may have affected the results as the data included only the beginning of 2024.
+
+## Conclusion
+
+The comprehensive analysis of renewable energy consumption trends and patterns from 1973 to 2024 provides valuable insights for marketing professionals in the renewable energy sector. By identifying long-term trends, understanding the impact of seasonal variations, and examining sectoral growth, this study highlights key opportunities for targeted marketing campaigns and strategic initiatives.
+
+Key findings include the significant increase in renewable energy consumption across various sectors, the rapid growth of emerging renewable energy sources like solar and wind, and the comparative analysis of growth rates over different decades. These insights enable marketing teams to develop data-driven strategies, create effective educational content, and identify new market opportunities.
+
+Despite potential feasibility issues such as data availability, quality, and technical challenges, the project's recommendations offer actionable steps to overcome these obstacles. By leveraging detailed data visualization, market insights, and strategic recommendations, marketing professionals can drive impactful initiatives that promote sustainable energy practices and enhance consumer awareness.
+
+In conclusion, this project empowers marketing teams with a thorough understanding of renewable energy consumption dynamics, enabling them to make informed decisions and effectively communicate the benefits of renewable energy to a broader audience. Through targeted campaigns and strategic partnerships, the renewable energy sector can continue to grow and contribute to a sustainable future
