@@ -353,6 +353,19 @@ Insights:
 
 
 5. What is the contribution of emerging renewable energy sources (e.g., solar and wind) compared to traditional ones (e.g., hydroelectric) over time?
+   First, I divided the renewable energy sources into two categories: traditional renewable energy sources and emerging renewable energy sources:
+
+   | Traditional Renewable Energy       | Emerging Renewable Energy         |
+|------------------------------------|-----------------------------------|
+| Hydroelectric_Power                | Solar_Energy                      |
+| Conventional_Hydroelectric_Power   | Wind_Energy                       |
+| Wood_Energy                        | Geothermal_Energy                 |
+| Waste_Energy                       | Fuel_Ethanol                      |
+| Biomass_Energy                     | Biomass_Losses                    |
+|                                    | Biodiesel                         |
+|                                    | Renewable_Diesel_Fuel             |
+|                                    | Other_Biofuels                    |
+
 
 ```sql
 WITH EnergyTotals AS (
@@ -382,6 +395,14 @@ ORDER BY Sector;
 
 ![Seasonal Consumption of Renewable Energy](assets/images/5_pic.png)
 
+- The Commercial Sector uses 88% traditional renewable energy and 11.70% emerging renewable energy. This indicates the commercial sector heavily relies on traditional energy sources. The shift to emerging sources is slow but evident.
+- The Electric Power Sector  uses 81.28% traditional renewable energy and 18.7189% emerging renewable energy. This indicates the sector is significantly incorporating emerging energy sources. Nearly 19% reliance on emerging sources indicates a substantial transition towards newer technologies.
+- The Industrial Sector uses 92.10% traditional renewable energy and 7.89% emerging renewable energy.This indicates the industrial sector is the most dependent on traditional energy sources. The adoption of emerging energy sources is minimal, highlighting potential barriers to change in this sector.
+- The Residential Sectoruses 88.75% traditional renewable energy and 11.24% emerging renewable energy.This indicates the residential energy usage is predominantly traditional. The shift to emerging sources is present but not yet significant.
+- The Transportation Sectoruses 50% traditional renewable energy and 50% emerging renewable energy.This indicates the transportation sector shows an equal split between traditional and emerging energy sources, indicating a balanced and significant transition to newer energy forms, possibly due to advancements in electric vehicles and biofuels.
+
+
+
 
 ## Findings
 
@@ -391,3 +412,5 @@ ORDER BY Sector;
 3. The peak in summer (June and July) suggests higher travel activity due to favorable weather, while the low in winter (January and February) suggests reduced travel activity.
 3. While there is a positive trend indicating that more points redeemed correlate with more flights booked, other factors also influence these variables.
 4. High engagement and effective utilization of the loyalty program are critical for customer retention. Frequent flyers and those who redeem points are more likely to stay loyal to the service
+
+## Recommendations 
