@@ -122,12 +122,12 @@ JOIN MovingAvg ma ON yt.years = ma.years
 ORDER BY yt.years;
 ```
 ![Trend over years](assets/images/1_pic.png)
-The long-term trends in total renewable energy consumption from 1973 to 2024 reveal a significant upward trajectory, reflecting increased global adoption of renewable energy sources. 
-Across all sectors there was a significant increase in consumption in the 1984 this may have been attributed to the implementation of early renewable energy incentives and policies aimed at reducing dependence on fossil fuels. The Public Utility Regulatory Policies Act (PURPA) of 1978, which promoted renewable energy projects by requiring utilities to purchase power from independent producers, may have played a significant role during this period.
- However, in the early 2000s we notice a dip which is likely because of to economic downturns and the bursting of the dot-com bubble, which diverted focus and funding away from renewable energy investments. The Energy Policy Act of 2005 later revitalized the sector by introducing tax incentives and loan guarantees for renewable energy projects.
-Between 2005-2019 we notice a gradual increase in consumption, this may have been due to technology advancement and new laws introduced. The introduction of the Energy Independence and Security Act (EISA) of 2007, which aimed to improve energy efficiency and increase the production of renewable fuels, and technological advancements in solar and wind energy, significantly contributed to this growth
-In 2020, there was a dip which was likely caused by COVID pandemic which led to supply chain disruptions, lockdown measures, and financing challenges. 
-Our data shows a significant fall in the moving average this is because the data provided only shows the first few months within 2024 as the year is ongoing.
+- The long-term trends in total renewable energy consumption from 1973 to 2024 reveal a significant upward trajectory, reflecting increased global adoption of renewable energy sources.
+- Across all sectors there was a significant increase in consumption in the 1984 this may have been attributed to the implementation of early renewable energy incentives and policies aimed at reducing dependence on fossil fuels. The Public Utility Regulatory Policies Act (PURPA) of 1978, which promoted renewable energy projects by requiring utilities to purchase power from independent producers, may have played a significant role during this period.
+- However, in the early 2000s we notice a dip which is likely because of to economic downturns and the bursting of the dot-com bubble, which diverted focus and funding away from renewable energy investments. The Energy Policy Act of 2005 later revitalized the sector by introducing tax incentives and loan guarantees for renewable energy projects.
+- Between 2005-2019 we notice a gradual increase in consumption, this may have been due to technology advancement and new laws introduced. The introduction of the Energy Independence and Security Act (EISA) of 2007, which aimed to improve energy efficiency and increase the production of renewable fuels, and technological advancements in solar and wind energy, significantly contributed to this growth.
+- In 2020, there was a dip which was likely caused by COVID pandemic which led to supply chain disruptions, lockdown measures, and financing challenges.
+- Our data shows a significant fall in the moving average this is because the data provided only shows the first few months within 2024 as the year is ongoing.
 
 
 ### 2. How does the seasonal variation affect the consumption of each type of renewable energy?
