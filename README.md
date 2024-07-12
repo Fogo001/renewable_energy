@@ -1,4 +1,4 @@
-# Analysis of Long-Term Trends and Seasonal Variations in Renewable Energy Consumption
+# The Analysis of Long-Term Trends and Seasonal Variations in Renewable Energy Consumption
 
 ## Table of contents 
 - [Executive Summary](#executive-summary)
