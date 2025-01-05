@@ -491,12 +491,9 @@ ORDER BY Sector;
 - What did we learn?
 1. Winter months generally see increased consumption for heating (biomass, geothermal), while renewable sources dependent on natural phenomena like sunlight (solar) and water flow (hydroelectric) peak during specific seasons. 
 2. February consistently shows lower consumption across multiple sources, likely due to it being the shortest month and reduced overall activity.
-3. The peak in summer (June and July) suggests higher travel activity due to favorable weather, while the low in winter (January and February) suggests reduced travel activity.
-3. While there is a positive trend indicating that more points redeemed correlate with more flights booked, other factors also influence these variables.
-4. High engagement and effective utilization of the loyalty program are critical for customer retention. Frequent flyers and those who redeem points are more likely to stay loyal to the service
-5. The industrial sector demonstrates the most significant increase in renewable energy consumption, driven by policies promoting green manufacturing and sustainability initiatives.
-6. The growth rate of solar and wind energy has surpassed that of traditional sources in the 2010s and 2020s.
-7. Traditional sources like hydroelectric power still play a vital role but have been outpaced by the rapid adoption of solar and wind energy.
+3. The industrial sector demonstrates the most significant increase in renewable energy consumption, driven by policies promoting green manufacturing and sustainability initiatives.
+4. The growth rate of solar and wind energy has surpassed that of traditional sources in the 2010s and 2020s.
+5. Traditional sources like hydroelectric power still play a vital role but have been outpaced by the rapid adoption of solar and wind energy.
 
 
 
